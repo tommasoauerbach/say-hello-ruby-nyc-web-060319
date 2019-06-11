@@ -1,2 +1,2 @@
-def say_hello '("tommaso")'
+def say_hello "tommaso"
 end
